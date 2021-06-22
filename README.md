@@ -1,7 +1,7 @@
 ## Hey 👋
 
 - 🔭 I’m a Security Engineer working in Application Security. 
-- 💬 Ask me about Azure, Cloud Security and Security Operations Centres.
+- 💬 Ask me about AWS, Cloud Security and Security Operations Centres.
 
 ![Bens's GitHub stats](https://github-readme-stats.vercel.app/api?username=benmcgarry&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
