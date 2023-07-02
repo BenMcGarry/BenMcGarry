@@ -8,7 +8,3 @@
 ## 💻 I’m currently working on ...
 
 ![Bens's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=honestbleeps&repo=reddit-enhancement-suite&theme=radical)
-
-## 📫 How to reach me:
-
-[@benmcga on Twitter](https://twitter.com/benmcga)
